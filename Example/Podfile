@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'GSAModule_Example' do
+  pod 'GSAModule', :path => '../'
+
+  target 'GSAModule_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
