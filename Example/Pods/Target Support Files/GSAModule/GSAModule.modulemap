@@ -1,0 +1,6 @@
+framework module GSAModule {
+  umbrella header "GSAModule-umbrella.h"
+
+  export *
+  module * { export * }
+}

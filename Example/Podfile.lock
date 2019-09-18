@@ -1,0 +1,16 @@
+PODS:
+  - GSAModule (0.1.0)
+
+DEPENDENCIES:
+  - GSAModule (from `../`)
+
+EXTERNAL SOURCES:
+  GSAModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GSAModule: 354a3082890d65ad0bd275f7006eacb91762caa8
+
+PODFILE CHECKSUM: b6e8143a729f7f00fe55e6c2b3593eaad92703de
+
+COCOAPODS: 1.7.5
